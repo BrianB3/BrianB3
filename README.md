@@ -1,4 +1,4 @@
-# ¡Hola! Soy Brian Babon 👋
+# ¡Hola! Soy Brian Babón 👋
 
 Soy Desarrollador de Software y estudiante de **Analista en Tecnologías de la Información** en la Universidad ORT (Uruguay).
 
