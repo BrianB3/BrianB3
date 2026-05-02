@@ -11,11 +11,11 @@ Estoy buscando activamente mi primera oportunidad laboral en el sector TI, abier
 | Frontend | Backend | Bases de Datos | UI/Librerías |
 | :--- | :--- | :--- | :--- |
 | React | C# (.NET) | SQL Server | MUI (Material-UI) |
-| TypeScript | Node.js (Básico) | MySQL | Tailwind CSS |
+| TypeScript | Java (Spring) | MySQL | Tailwind CSS |
 | JavaScript (ES6+) | ASP.NET | MariaDB | Mantine |
-| HTML5 / CSS3 | REST APIs | PostgreSQL | Bootstrap |
+| Angular | REST APIs | PostgreSQL | Bootstrap |
 
-**Otras herramientas:** Git, AWS (EC2), Linux.
+**Otras herramientas:** Git, AWS (EC2), Oracle Cloud, Linux, Scrum.
 
 ---
 
@@ -24,7 +24,7 @@ Estoy buscando activamente mi primera oportunidad laboral en el sector TI, abier
 Al ser un sistema interno para un negocio real, el repositorio es privado, pero aquí describo su arquitectura y funcionalidades:
 
 * **Descripción:** Desarrollé desde cero un sistema de gestión (ERP/CRM) full-stack para "Mundo Control", un taller de servicio técnico. La aplicación optimiza la gestión de clientes, stock, órdenes de reparación y facturación.
-* **Stack:** **React** y **TypeScript** en el front-end, y **C# (.NET)** con **MySQL** en el back-end.
+* **Stack:** **React** y **TypeScript** en el front-end, y **C# (.NET 10)** con **MySQL** en el back-end.
 * **Funcionalidades Clave:**
     * Gestión completa del ciclo de reparaciones (ingreso, diagnóstico, presupuesto, egreso).
     * Control de inventario y stock de repuestos.
